@@ -131,7 +131,7 @@ function AboutSection() {
               <span>未來航海家</span>
             </div>
             <h1 className="text-5xl md:text-6xl font-light tracking-tighter italic font-serif mb-2 text-white" style={{ fontFamily: 'Georgia, serif' }}>
-              我叫李宥杰
+              李宥杰
             </h1>
             <h2 className="text-[10px] uppercase tracking-[0.3em] text-white/50 mt-4 flex items-center justify-center md:justify-start gap-2">
               <Ship className="w-3 h-3" /> 國立高雄科技大學航運技術系
